@@ -1,2 +1,2 @@
 # Quiz Game 
-An exciting experience for all Avengers fans!
+An exciting game for all Avengers fans!
