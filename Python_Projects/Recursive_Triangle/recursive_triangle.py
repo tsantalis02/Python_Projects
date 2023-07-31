@@ -1,6 +1,6 @@
-def recursive_triangle(num, char):
+def recursive_triangle(num):
     if num > 0:
-        recursive_triangle(num-1, char)
-        print(char*num)
+        recursive_triangle(num-1,)
+        print(num*'*')
     
-recursive_triangle(4,'*')    
+recursive_triangle(4)    
